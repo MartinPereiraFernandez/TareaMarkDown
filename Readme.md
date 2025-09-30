@@ -12,6 +12,9 @@ En conclusión, la IA ofrece grandes oportunidades para mejorar y democratizar l
 :white_check_mark: __Aprendizaje personalizado__: Adapta el contenido y el ritmo según las necesidades de cada estudiante.
 
 :white_check_mark: __Retroalimentación inmediata__: Permite corregir errores y mejorar habilidades en tiempo real.
+> [!IMPORTANT]
+> Supervisar el uso de la IA en los niños
+
 ![img_6.png](img_6.png)
 #### Desventajas:
 
