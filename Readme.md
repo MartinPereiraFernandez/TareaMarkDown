@@ -19,8 +19,8 @@ En conclusión, la IA ofrece grandes oportunidades para mejorar y democratizar l
 
 :x: __Sesgos en los datos__: Los algoritmos pueden reflejar prejuicios presentes en los datos con los que fueron entrenados.
 
-[!CAUTION]
-El mal uso de la IA puede llegar a ser demasiado peligroso para los niños.
+>[!CAUTION]
+>El mal uso de la IA puede llegar a ser demasiado peligroso para los niños.
 
 ![img_5.png](img_5.png)
 
