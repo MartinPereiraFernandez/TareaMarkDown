@@ -7,5 +7,17 @@ Otra ventaja es la retroalimentación inmediata, que ayuda a corregir errores en
 Sin embargo, esta influencia no está exenta de riesgos. Una dependencia excesiva de la IA puede generar aprendizaje superficial y reducir la capacidad de razonamiento autónomo. También es necesario considerar los sesgos de los datos con los que estas tecnologías son entrenadas, ya que pueden reproducir desigualdades.
 
 En conclusión, la IA ofrece grandes oportunidades para mejorar y democratizar la educación, siempre que se utilice como un complemento que potencie el pensamiento crítico y la creatividad, en lugar de reemplazarlos. :grin:
+### Ventajas y desventajas:
+#### Ventajas:
+:white_check_mark: Aprendizaje personalizado: Adapta el contenido y el ritmo según las necesidades de cada estudiante.
+
+:white_check_mark: Retroalimentación inmediata: Permite corregir errores y mejorar habilidades en tiempo real.
+#### Desventajas:
+
+:x: Dependencia tecnológica: Puede limitar la autonomía y el pensamiento crítico si se usa en exceso.
+
+:x: Sesgos en los datos: Los algoritmos pueden reflejar prejuicios presentes en los datos con los que fueron entrenados.
+
+
 ![img.png](img.png)
 [Pagina de interés](https://www.incibe.es/menores/blog/el-uso-de-la-inteligencia-artificial-en-el-entorno-educativo)
