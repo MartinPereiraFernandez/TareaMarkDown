@@ -6,6 +6,6 @@ Otra ventaja es la retroalimentación inmediata, que ayuda a corregir errores en
 
 Sin embargo, esta influencia no está exenta de riesgos. Una dependencia excesiva de la IA puede generar aprendizaje superficial y reducir la capacidad de razonamiento autónomo. También es necesario considerar los sesgos de los datos con los que estas tecnologías son entrenadas, ya que pueden reproducir desigualdades.
 
-En conclusión, la IA ofrece grandes oportunidades para mejorar y democratizar la educación, siempre que se utilice como un complemento que potencie el pensamiento crítico y la creatividad, en lugar de reemplazarlos.:GRIN:
+En conclusión, la IA ofrece grandes oportunidades para mejorar y democratizar la educación, siempre que se utilice como un complemento que potencie el pensamiento crítico y la creatividad, en lugar de reemplazarlos. :grin:
 ![img.png](img.png)
 [Pagina de interés](https://www.incibe.es/menores/blog/el-uso-de-la-inteligencia-artificial-en-el-entorno-educativo)
