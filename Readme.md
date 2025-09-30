@@ -9,15 +9,19 @@ Sin embargo, esta influencia no está exenta de riesgos. Una dependencia excesiv
 En conclusión, la IA ofrece grandes oportunidades para mejorar y democratizar la educación, siempre que se utilice como un complemento que potencie el pensamiento crítico y la creatividad, en lugar de reemplazarlos. :grin:
 ### Ventajas y desventajas:
 #### Ventajas:
-:white_check_mark: Aprendizaje personalizado: Adapta el contenido y el ritmo según las necesidades de cada estudiante.
+:white_check_mark: __Aprendizaje personalizado__: Adapta el contenido y el ritmo según las necesidades de cada estudiante.
 
-:white_check_mark: Retroalimentación inmediata: Permite corregir errores y mejorar habilidades en tiempo real.
+:white_check_mark: __Retroalimentación inmediata__: Permite corregir errores y mejorar habilidades en tiempo real.
+![img_6.png](img_6.png)
 #### Desventajas:
 
-:x: Dependencia tecnológica: Puede limitar la autonomía y el pensamiento crítico si se usa en exceso.
+:x: __Dependencia tecnológica__: Puede limitar la autonomía y el pensamiento crítico si se usa en exceso.
 
-:x: Sesgos en los datos: Los algoritmos pueden reflejar prejuicios presentes en los datos con los que fueron entrenados.
+:x: __Sesgos en los datos__: Los algoritmos pueden reflejar prejuicios presentes en los datos con los que fueron entrenados.
 
+[!CAUTION]
+El mal uso de la IA puede llegar a ser demasiado peligroso para los niños.
 
-![img.png](img.png)
+![img_5.png](img_5.png)
+
 [Pagina de interés](https://www.incibe.es/menores/blog/el-uso-de-la-inteligencia-artificial-en-el-entorno-educativo)
